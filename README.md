@@ -1,7 +1,7 @@
 # Cardiovascular-Disease
 Classification and cluster analysis of patients with cardiovascular disease
 
-This project consists of 
+This project consists of:
 1) a classification model using EMR data to predict whether patients have cardiovascular disease
 2) a cluster analysis to group patients by common root causes/ manifestations of cardiovascular disease in order to develop disease management programs to address their specific needs
 
